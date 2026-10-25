@@ -1,6 +1,6 @@
 nama = "Hardi"
 umur = 17
-tinggi = 160
+tinggi = 160.5
 mahasiswa = True
 
 if mahasiswa == True:
